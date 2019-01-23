@@ -1,3 +1,6 @@
+<img width="80%" border="30" src="https://user-images.githubusercontent.com/13763933/51616361-7a405700-1f5c-11e9-8c0b-2f31b28624e8.png"/>
+<br>
+
 # Wrangle & Analyze Data
 This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) certification.
 
