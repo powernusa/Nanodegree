@@ -1,5 +1,5 @@
 # nanodegree
-This is where I put my online showcase
+This is where I showcase projects I'm involved in.
 
 ### Data Analyst Certificate
 
