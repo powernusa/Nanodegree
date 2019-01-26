@@ -1,5 +1,5 @@
 # Nanodegree
-This is where I showcase my projects.<br>
+This is where I showcase my projects.<br><br>
 DAND: Data Analyst Nanodegree<br>
 AND: Android Nanodegree<br>
 
