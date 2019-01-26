@@ -1,5 +1,7 @@
 # Nanodegree
 This is where I showcase my projects.
+DAND: Data Analyst Nanodegree
+AND: Android Nanodegree
 
 ### Data Analyst Certificate
 
