@@ -21,3 +21,15 @@ visualizations from the first part into polished, explanatory visualizations.
 - Jupyter Notebook
 
 ## Key Findings
+- From plotly, most big airports are locoated on the East coast. Also most delays occur on the East coast.
+- From Section 5.2, Section 5.3, and Section 5.4, we can see a general trend. I call it cascading delays. 
+Shortest mean delays started in the morning or late morning and then delays get progressively longer at Late Night 
+or Early Morning. This trend makes intuitive sense because if we had delays in the morning, then delays will be 
+carried over in the next flight and cascaded as hours go by.
+- I decided to check / drill down this hypothesis -- that delays are cascaded. I made 3 queries: query_1, 
+query_2, and query_3. The query results surprised me and I have to reject the hypothesis. 300 minutes delays 
+happened in the first or first two rows and happened in the Early Morning. Then flights generally returned to 
+normalcy, i.e no delays as hours progressed.
+- Then I explored causes of delays. I plot the causes of delays and it strengthens the rejection of the 
+hypothesis -- that delays are cascaded. From the plot, we can see that delays are caused by LateAircraftDelay, 
+CarrierDelay and WeahterDelay that happened longer at LateNight and EarlyMorning.
